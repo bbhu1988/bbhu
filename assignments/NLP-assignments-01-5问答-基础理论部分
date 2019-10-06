@@ -1,0 +1,38 @@
+5. 完成以下问答和编程练习
+
+>
+基础理论部分
+0. Can you come up out 3 sceneraies which use AI methods?
+
+Ans:{Text translator、Search engine、AlphaGo}
+1. How do we use Github; Why do we use Jupyter and Pycharm;
+
+Ans: {Now I have learned how to use Github, We will use it to upload assignments and download the source code and information provided by the teacher.
+Because it's easy to demonstrate, and it's a convenient development environment, you can upload code to Github.}
+2. What's the Probability Model?
+
+Ans:{A mathematical model describing the relationship between different random variables.}
+3. Can you came up with some sceneraies at which we could use Probability Model?
+
+Ans:{Weather forecast; Sweepstakes; Risk assessment.}
+4. Why do we use probability and what's the difficult points for programming based on parsing and pattern match?
+
+Ans:{Calculating the probability of a sentence appearing by counting is a way of parsing language. It is relatively simple and easy to implement.
+Difficult points: 1.The flexibility and variability of natural language; 2. The size of the corpus is always limited.}
+5. What's the Language Model;
+
+Ans:{The probability-based language model analyzes the statement, determines the correctness of the input statement, and outputs the probability of the statement.}
+6. Can you came up with some sceneraies at which we could use Language Model?
+
+Ans:{Mobile phone input method; Speech Recognition}
+7. What's the 1-gram language model;
+
+Ans:{Gram means grammar unit, 1-gram means only calculate the probability of a single word.}
+8. What's the disadvantages and advantages of 1-gram language model;
+
+Ans:{Disadvantages: 1. Did not consider the order in which words appear;2. Unable to reflect the dependencies between words and words.
+Advantage: The calculation is simple.}
+9. What's the 2-gram models;
+
+Ans:{If the appearance of a word depends only on a word that appears before it, then we call it Bi-gram.}
+
