@@ -1,0 +1,17 @@
+2.1 What conditions are required to make the BFS return the optimal solution ?
+A: BFS return the optimal solution under certain constrains:When the cost of each link is equal and the cost is positive, the BFS can directly find the optimal path; When the cost of each link is not equal and the cost is positive, the BFS can find the optimal after sorting; when the cost value is negative, BFS cannot find the optimal solution.
+
+2.2 Is there a way to make DFS find the optimal solution ? (You may need to read some material about iterative DFS)
+A: Can use DFS in combination with BFS
+
+2.3 In what conditions BFS is a better choice than DFS and vice versa ?
+A: DFS is better than BFS when it comes to space complexity; BFS is better than DFS when it is necessary to find the optimal path.
+
+2.4 When can we use machine learning ?
+A: Prediction、Big data analysis
+
+2.5 What is the gradient of a function ?
+A: Partial derivative vector
+
+2.6 How can we find the maximum value of a function using the information of gradient ?
+A: Gradient rise
